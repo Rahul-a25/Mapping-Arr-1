@@ -1,0 +1,17 @@
+.number{
+       width:60% ;
+       margin: auto;
+       border: 10px solid white;
+       gap: 2px;
+       display: flex;
+       flex-wrap: wrap;
+
+}
+.content{
+    padding: 30px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 600;
+    color: white;
+
+}
